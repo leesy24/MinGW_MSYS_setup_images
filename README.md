@@ -1,0 +1,1 @@
+# MinGW_MSYS_setup_images
